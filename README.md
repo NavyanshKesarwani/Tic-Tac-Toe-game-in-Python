@@ -18,3 +18,5 @@ To make this game in Python, firstly we have to enter the code present in the ma
 
 ### **Note:** *This whole project was made on Python v3.8.1.*
 ### *If you have any suggestions related to this project, feel free to add a pull request. For major changes, discuss it with me on [my email](navyanshtechnicalpoint001@gmail.com).*
+
+### **© 2020 Navyansh Kesarwani**
